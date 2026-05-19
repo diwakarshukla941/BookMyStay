@@ -111,7 +111,3 @@ BookMyStay/
 |   |-- models/
 |   |-- routes/
 ```
-
-## Current Direction
-
-This repository already covers the core API building blocks for a stay-booking platform. Strong next steps would be request validation, booking date conflict checks, automated tests, and media upload support for listing images and avatars.
